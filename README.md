@@ -34,7 +34,7 @@ Committed to clean code, continuous learning, and impactful software.</div>
 
 </div>
 
-![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,express,javascript,java,node,typescript,php,html,css,sass,c,Docker,Python,mysql,mongodb,tensorflow,pytorch,pandas&includeNames=true&theme=darkmode)
+![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,express,javascript,java,node,typescript,php,html,css,sass,c,Docker,Python,mysql,mongodb,tensorflow,Pandas,opencv&includeNames=true&theme=darkmode)
 
 <div align="center">
  
