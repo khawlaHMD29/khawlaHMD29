@@ -21,7 +21,7 @@ Focused on building scalable web applications and intelligent solutions.
 Strong interest in Artificial Intelligence, Computer Vision, and automation.
 Committed to clean code, continuous learning, and impactful software.</div>
 
-<div class="text-left"><h3 class="font-bold text-lg mb-2">Rapid Fire:</h3><ul class="list-disc list-inside space-y-1"><li class="flex items-center text-sm"><span class="mr-2">💼</span> I'm currently working on: <strong class="ml-2"><div>💻 Developing a new e-commerce platform using React and Node.js</div></strong></li><li class="flex items-center text-sm"><span class="mr-2">🌱</span> I'm currently learning: <strong class="ml-2"><div>📚 AI &amp; Automation</div></strong></li><li class="flex items-center text-sm"><span class="mr-2">💬</span> Ask me about: <strong class="ml-2"><div>💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs</div></strong></li><li class="flex items-center text-sm"><span class="mr-2">⚡</span> Fun fact: <strong class="ml-2"><div>🎢 I once debugged a issue while on a roller coaster!</div></strong></li></ul></div>
+
 
 <h3 class="font-bold text-lg mb-2" >Skills:</h3>
 
