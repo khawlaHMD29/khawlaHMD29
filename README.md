@@ -23,3 +23,7 @@ Committed to clean code, continuous learning, and impactful software.</div>
 <div class="flex flex-col w-full justify-start items-center mb-6"><h2 class="font-bold text-lg mb-2 self-start">GitHub Stats</h2><div class="grid grid-cols-2 w-full gap-x-2 gap-y-3"><img src="https://github-readme-stats.vercel.app/api?username=khawlaHMD29&amp;type=stats&amp;theme=react&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=false&amp;include_all_commits=false&amp;count_private=true&amp;line_height=23" alt="GitHub stats Card" style="max-width: 100%; height: auto;"><img src="https://streak-stats.demolab.com/?user=khawlaHMD29&amp;type=streak&amp;theme=react&amp;hide_border=false&amp;date_format=M+j%5B%2C+Y%5D&amp;mode=daily&amp;hide_total_contributions=false&amp;hide_current_streak=false&amp;hide_longest_streak=false&amp;card_height=200" alt="GitHub streak Card" style="max-width: 100%; height: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khawlaHMD29&amp;type=top-langs&amp;theme=react&amp;hide_title=false&amp;layout=compact&amp;langs_count=6&amp;hide_progress=false&amp;card_width=400" alt="GitHub top-langs Card" style="max-width: 100%; height: auto;"></div></div>
 
 ![snake gif](https://github.com/khawlaHMD29/khawlaHMD29/blob/output/github-snake-dark.svg)
+
+
+<img width="854" height="500" alt="image" src="https://github.com/user-attachments/assets/c9624b29-da95-4f37-b56e-e0aa6369a767" />
+
