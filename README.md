@@ -22,34 +22,93 @@ Strong interest in Artificial Intelligence, Computer Vision, and automation.
 Committed to clean code, continuous learning, and impactful software.</div>
 
 <div align="center">
- 
-![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,express,javascript,java,node,typescript,php,html,css,sass,c,Docker,Python,mysql,mongodb,tensorflow,Git,next&includeNames=true&theme=darkmode)
+     
+   ![Skills](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,express,javascript,java,node,typescript,php,html,css,sass,c,Docker,Python,mysql,mongodb,tensorflow,Git,next&includeNames=true&theme=darkmode)
 
 </div>
 
 <div align="center">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khawlaHMD29&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khawlaHMD29&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khawlaHMD29&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khawlaHMD29&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khawlaHMD29&theme=jolly&utcOffset=8)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khawlaHMD29&theme=jolly&hide_border=true)](https://git.io/streak-stats)
+
+<table cellspacing="0" cellpadding="0" border="0">
+  <!-- Row 1: Full width -->
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        width="1000"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khawlaHMD29&theme=jolly"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 2: 50% + 50% -->
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khawlaHMD29&theme=jolly"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khawlaHMD29&theme=jolly"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 3: 50% + 50% -->
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khawlaHMD29&theme=jolly"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khawlaHMD29&theme=jolly&utcOffset=1"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 4: Full width -->
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        width="1000"
+        src="https://github-readme-streak-stats.herokuapp.com?user=khawlaHMD29&theme=jolly&hide_border=true"
+      />
+    </td>
+  </tr>
+
+  <!-- Row 5: Full width -->
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        width="1000"
+        src="https://stats.hyo.dev/api/github-stats-advanced?login=khawlaHMD29"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 
 
+
 <!-- hyochan -->
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=khawlaHMD29)
+
 
 <div align="center">
 
 
 ![snake gif](https://github.com/khawlaHMD29/khawlaHMD29/blob/output/github-snake-dark.svg)
+<!-- xiaohuohumax -->
+![Git Animals](https://render.gitanimals.org/lines/khawlaHMD29)
 
 </div>
 
 
-<!-- xiaohuohumax -->
-![Git Animals](https://render.gitanimals.org/lines/khawlaHMD29)
+
