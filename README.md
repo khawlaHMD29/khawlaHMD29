@@ -75,7 +75,7 @@ Committed to clean code, continuous learning, and impactful software.</div>
     <td colspan="2" align="center">
       <img
         width="1000"
-        src="https://github-readme-streak-stats.herokuapp.com?user=khawlaHMD29&theme=jolly&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com?user=khawlaHMD29&theme=jolly"
       />
     </td>
   </tr>
