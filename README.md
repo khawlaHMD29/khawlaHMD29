@@ -71,14 +71,15 @@ Committed to clean code, continuous learning, and impactful software.</div>
   </tr>
 
   <!-- Row 4: Full width -->
-  <tr>
+   <tr>
     <td colspan="2" align="center">
       <img
         width="1000"
-        src="https://github-readme-streak-stats.herokuapp.com?user=khawlaHMD29&theme=jolly"
+        src="https://github-readme-streak-stats.herokuapp.com?user=khawlaHMD29&theme=jolly&hide_border=true"
       />
     </td>
   </tr>
+
 
   <!-- Row 5: Full width -->
   <tr>
