@@ -1,6 +1,4 @@
 
-
-
 <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" alt="Hi, my name is Khawla Hammouda👩‍💻" class="max-w-full rounded-md shadow-md">
 
 <img src="https://komarev.com/ghpvc/?username=khawlaHMD29&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views counter">
